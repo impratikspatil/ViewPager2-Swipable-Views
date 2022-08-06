@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
          binding.viewpager.adapter=ap
 
         binding.viewpager.orientation=ViewPager2.ORIENTATION_VERTICAL
-        
+
 
 
     }
